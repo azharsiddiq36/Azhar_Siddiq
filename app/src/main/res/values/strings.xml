@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Azhar_Siddiq</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Bosnia</item>
+    </string-array>
+</resources>
